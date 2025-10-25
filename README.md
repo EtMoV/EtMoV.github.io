@@ -1,8 +1,3 @@
----
-layout: default
-title: Privacy Policy – ZombieWearSurvivor
----
-
 # Privacy Policy — ZombieWearSurvivor
 *Last updated: **October 25, 2025***
 
