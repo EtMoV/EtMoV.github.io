@@ -1,4 +1,3 @@
-# Privacy Policy — ZombieWearSurvivor
 *Last updated: **October 25, 2025***
 
 ---
@@ -12,7 +11,7 @@
 
 ## 1. App Publisher
 **Application:** ZombieWearSurvivor  
-**Developer:** MaCompagnie  
+**Developer:** Etienne Motara (EtMoV)  
 **Contact:** [motaraetiennepro@gmail.com](mailto:motaraetiennepro@gmail.com)
 
 ---
@@ -92,6 +91,6 @@ For any privacy-related questions, please contact us at:
 
 ---
 
-© **MaCompagnie** — All rights reserved  
+© **Etienne Motara (EtMoV)** — All rights reserved  
 Unity version: **Unity 6**  
 _Last updated: October 25, 2025_
